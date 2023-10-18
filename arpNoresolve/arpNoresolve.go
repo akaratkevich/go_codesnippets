@@ -1,5 +1,6 @@
 package arpNoresolve
 
+// arp xml structure
 import "encoding/xml"
 
 type RpcReply struct {

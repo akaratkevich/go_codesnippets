@@ -1,4 +1,4 @@
-module codesnippets
+module github.com/akaratkevich/go_codesnippets
 
 go 1.21.3
 
